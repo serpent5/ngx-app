@@ -2,5 +2,9 @@
 ## Angular Overrides
 ##
 .angular
-coverage
 dist
+
+##
+## Project Overrides
+##
+reports

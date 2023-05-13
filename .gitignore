@@ -137,3 +137,8 @@ dist
 ## Angular Overrides
 ##
 .angular
+
+##
+## Project Overrides
+##
+reports

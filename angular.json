@@ -84,7 +84,8 @@
             ],
             "styles": ["projects/app/src/styles.css"],
             "scripts": [],
-            "codeCoverage": true
+            "codeCoverage": true,
+            "karmaConfig": "projects/app/karma.conf.js"
           }
         },
         "lint": {
