@@ -6,10 +6,6 @@ describe("AppComponent", () => {
   let componentInstance: AppComponent;
 
   beforeEach(() => {
-    TestBed.configureTestingModule({
-      declarations: [AppComponent]
-    });
-
     componentFixture = TestBed.createComponent(AppComponent);
     componentInstance = componentFixture.componentInstance;
   });
