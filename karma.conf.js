@@ -30,6 +30,9 @@ module.exports = function (c, projectName) {
         { type: "html" }
       ]
     },
+    mochaReporter: {
+      output: "minimal"
+    },
     plugins: [
       ...configOptionsDefaults.plugins,
       require("karma-mocha-reporter")
